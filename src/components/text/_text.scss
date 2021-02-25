@@ -1,2 +1,9 @@
-.cmp-text {}
-.cmp-text__paragraph {}
+.cmp-text {
+  margin-bottom: 40px;
+
+  li {
+    padding-bottom: 10px;
+  }
+}
+.cmp-text__paragraph {
+}

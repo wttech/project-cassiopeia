@@ -1,3 +1,8 @@
-.cmp-title {}
-.cmp-title__text {}
-.cmp-title__link {}
+.cmp-title {
+}
+.cmp-title__text {
+  font-size: 36px;
+  border-bottom: 1px solid $color-foreground;
+}
+.cmp-title__link {
+}
