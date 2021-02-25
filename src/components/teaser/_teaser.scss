@@ -1,9 +1,26 @@
-.cmp-teaser {}
-.cmp-teaser__image {}
-.cmp-teaser__content {}
-.cmp-teaser__pretitle {}
-.cmp-teaser__title {}
-.cmp-teaser__title-link {}
-.cmp-teaser__description {}
-.cmp-teaser__action-container {}
-.cmp-teaser__action-link {}
+.cmp-teaser {
+  position: relative;
+}
+.cmp-teaser__image {
+}
+.cmp-teaser__content {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+.cmp-teaser__pretitle {
+}
+.cmp-teaser__title {
+  padding-left: 20px;
+  font-size: 48px;
+}
+.cmp-teaser__title-link {
+}
+.cmp-teaser__description {
+}
+.cmp-teaser__action-container {
+}
+.cmp-teaser__action-link {
+}
